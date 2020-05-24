@@ -38125,6 +38125,8 @@
 0.0.0.0 yeyajipp.com
 0.0.0.0 imgapp.yeyou.com
 0.0.0.0 ue.yeyoucdn.com
+0.0.0.0 pic.cytcm.com
+0.0.0.0 timg.eprice.com.tw
 0.0.0.0 yezijizhang.com
 0.0.0.0 ssh.yezijizhang.com
 0.0.0.0 yezilm.com
