@@ -4541,6 +4541,7 @@
 0.0.0.0 zconfig.alibabausercontent.com
 0.0.0.0 alibestru.ru
 0.0.0.0 alimama.alicdn.com
+0.0.0.0 cbu01.alicdn.com
 0.0.0.0 atanx.alicdn.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
 0.0.0.0 pss.alicdn.com
@@ -36571,6 +36572,8 @@
 0.0.0.0 wofan.net
 0.0.0.0 woghqyjpiwddme.com
 0.0.0.0 wojiabaoye.com
+0.0.0.0 img.wojiabaoye.com
+0.0.0.0 cdn.phpstudyimg.com
 0.0.0.0 wojiacanting.info
 0.0.0.0 wokekk.com
 0.0.0.0 wal.wolfram.com
